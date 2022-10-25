@@ -7,8 +7,8 @@ const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
 export default function checkSize() {
   return [
-    'swiper-bundle.min.js',
-    //  'swiper-bundle.esm.js'
+    // 'swiper-bundle.min.js',
+    'swiper-bundle.esm.js',
   ]
     .map((name) => {
       const filePath = path.join(__dirname, '../dist/', name);

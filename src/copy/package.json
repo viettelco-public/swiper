@@ -1,6 +1,9 @@
 {
   "name": "swiper",
   "version": "8.4.4",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "typings": "swiper.d.ts",
   "type": "module",
