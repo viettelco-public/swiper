@@ -1,6 +1,6 @@
 {
   "name": "@viettelco-public/swiper",
-  "version": "8.4.4",
+  "version": "8.4.4-fix",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "type": "module",
   "scripts": {
