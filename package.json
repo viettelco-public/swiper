@@ -3,6 +3,9 @@
   "version": "8.4.4-fix",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "build": "node scripts/build",
     "build:core": "node scripts/build --only core",
