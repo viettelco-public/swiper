@@ -1,6 +1,6 @@
 {
-  "name": "swiper",
-  "version": "8.4.4",
+  "name": "@viettelco-public/swiper",
+  "version": "8.4.4-next",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
